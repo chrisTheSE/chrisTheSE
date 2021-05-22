@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisTheSE
 - 👀 I’m interested in Java, C, Python, HTML, CSS, Javascript development.
 - 🌱 I’m currently learning Haskell and React.
-- 💞️ I’m looking to collaborate on software development projects base in any of the above coding languages.
+- 💞️ I’m looking to collaborate on software development projects based in any of the above coding languages.
 - 📫 How to reach me: chris.suh@mail.utoronto.ca
 
 <!---
